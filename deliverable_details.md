@@ -42,7 +42,7 @@ Blockers indicate that you are stuck and need help
    - Students should coordinate with stakeholders to determine best method for delivery    
 
 4. Six-page publishable paper
-   - The paper will summarize the teams' research and findings
+   - The paper will summarize the research and findings
    - Include customary sections for research paper such as:
      - Abstract
      - Data
