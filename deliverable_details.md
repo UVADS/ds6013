@@ -1,0 +1,78 @@
+### DETAILS ON DELIVERABLES FOR THE COURSE:
+
+---
+
+#### Intermediate Deliverables
+
+1. Progress Report I
+
+2. Progress Report II
+
+
+Details: The progress reports can build from the Project Plan. They should include the same sections at a **minimum**, listed here:
+
+- Stakeholder Names and Roles
+- Project Title
+- Abstract
+- Outline of the Project
+- Success Criteria
+- Assumptions and Limitations
+- Background Literature and Resources
+- Brief Outline of the Data
+- Overview of Data Modeling and Processing
+  - What is working / not working
+- Overview of Modeling Approaches
+  - What is working / not working
+- Computing
+  - What resources are you using for compute? (e.g., Rivanna, sponsor resources)  
+  - How are you storing data (e.g., RDS database on AWS, flat files on Rivanna)
+- Concerns and Blockers
+
+NOTE:  
+Concerns are things to keep in mind but don't yet impede progress  
+Blockers indicate that you are stuck and need help
+
+
+---
+
+#### Final Deliverables
+
+3. Package containing all data products and research artifacts
+   - To be shared with clients and other stakeholders
+   - Students should coordinate with stakeholders to determine best method for delivery    
+
+4. Six-page publishable paper
+   - The paper will summarize the teams' research and findings
+   - Include customary sections for research paper such as:
+     - Abstract
+     - Data
+     - Methods
+     - Conclusions
+     - Summary
+     - Next Steps
+   - Publication is not a requirement but it is encouraged!
+   - See paper rubric for how the paper will be graded
+
+5. Slide deck for presentation
+   - Presented by all students at the Capstone Presentation event
+   - This information should be included at a **minimum:**
+     - Stakeholders
+     - Table of Contents
+     - Project Purpose and Background
+     - Data Discussion
+     - Assumptions and Limitations
+     - Methods Discussion:
+       - Data Pipelines and Processing
+       - Modeling
+   - See presentation rubric for how the presentation will be graded
+
+6. Poster of your work
+    - To be presented at the Capstone Presentation event
+    - SDS can help with printing the poster
+    - See poster rubric for how the poster will be graded
+
+7. Code Repository  
+    - Submit the link to your GitHub repository containing all finalized, documented code  
+    - Check with the sponsor if this repo can be public; otherwise it can be kept private to stakeholders
+
+---
