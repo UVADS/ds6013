@@ -56,7 +56,7 @@ Blockers indicate that you are stuck and need help
 
 5. Slide deck for presentation
    - Presented by all students at the Capstone Presentation event
-   - Please use the SDS-branded .ppt template
+   - Please use the SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_final_presentation_template.pptx)
    - Submit the file on Canvas
    - This information should be included at a **minimum:**
      - Stakeholders
