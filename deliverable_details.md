@@ -43,7 +43,7 @@ Blockers indicate that you are stuck and need help
 
 4. Six-page publishable paper
    - The paper will summarize the research and findings
-   - Submit the file on canvas
+   - Submit the file on Canvas
    - Include customary sections for research paper such as:
      - Abstract
      - Data
@@ -57,7 +57,7 @@ Blockers indicate that you are stuck and need help
 5. Slide deck for presentation
    - Presented by all students at the Capstone Presentation event
    - Please use the SDS-branded .ppt template
-   - Submit the file on canvas
+   - Submit the file on Canvas
    - This information should be included at a **minimum:**
      - Stakeholders
      - Table of Contents
@@ -71,7 +71,7 @@ Blockers indicate that you are stuck and need help
 
 6. Poster of your work
     - To be presented at the Capstone Presentation event
-    - Submit the file on canvas
+    - Submit the file on Canvas
     - SDS will cover the cost of printing
     - See poster rubric for how the poster will be graded
 
