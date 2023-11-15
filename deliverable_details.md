@@ -67,7 +67,7 @@ Blockers indicate that you are stuck and need help
      - Methods Discussion:
        - Data Pipelines and Processing
        - Modeling
-   - See presentation rubric for how the presentation will be graded
+   - See presentation [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_presentation.md) for how the presentation will be graded
 
 6. Poster of your work
     - To be presented at the Capstone Presentation event
