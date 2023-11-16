@@ -70,10 +70,12 @@ Blockers indicate that you are stuck and need help
    - See presentation [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_presentation.md) for how the presentation will be graded
 
 6. Poster of your work
-    - To be presented at the Capstone Presentation event
+    - Brief, visual summarization of research
+    - To be displayed at the Capstone Presentation event
+    - Please use this SDS-branded .ppt [template](). You can modify as appropriate.
     - Submit the file on Canvas
-    - SDS will cover the cost of printing
-    - See poster rubric for how the poster will be graded
+    - SDS will print the poster for you and cover the cost
+    - See poster [rubric]() for how the poster will be graded
 
 7. Code Repository  
     - Submit the link to your GitHub repository containing all finalized, documented code  
