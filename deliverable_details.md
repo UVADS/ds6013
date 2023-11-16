@@ -55,7 +55,7 @@ Blockers indicate that you are stuck and need help
      - Summary
      - Next Steps
    - Publication is not a requirement but it is encouraged!
-   - See paper rubric for how the paper will be graded 
+   - See paper [rubric]() for grading breakdown
 
 
 **5. Slide deck for presentation**
@@ -71,7 +71,7 @@ Blockers indicate that you are stuck and need help
      - Methods Discussion:
        - Data Pipelines and Processing
        - Modeling
-   - See presentation [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_presentation.md) for how the presentation will be graded
+   - See presentation [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_presentation.md) for grading breakdown
 
 
 **6. Poster of your work**
@@ -80,7 +80,7 @@ Blockers indicate that you are stuck and need help
   - Please use this SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_poster_template.pptx). You can modify as appropriate.
   - Submit the file on Canvas
   - SDS will print the poster for you and cover the cost
-  - See poster [rubric]() for how the poster will be graded
+  - See poster [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_poster.md) for grading breakdown
 
 
 **7. Code Repository**  
