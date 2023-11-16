@@ -1,3 +1,5 @@
+![sds_logo](Isolated.png "Title")
+
 ## DETAILS ON DELIVERABLES FOR THE COURSE:
 
 ---
@@ -82,7 +84,7 @@ Blockers indicate that you are stuck and need help
 
 
 **7. Code Repository**  
-    - Submit the link to your GitHub repository containing all finalized, documented code  
-    - Check with the sponsor if this repo can be public; otherwise it can be kept private to stakeholders
+  - Submit the link to your GitHub repository containing all finalized, documented code  
+  - Check with the sponsor if this repo can be public; otherwise it can be kept private to stakeholders
 
 ---
