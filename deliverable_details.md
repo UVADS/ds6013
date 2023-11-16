@@ -1,8 +1,8 @@
-### DETAILS ON DELIVERABLES FOR THE COURSE:
+## DETAILS ON DELIVERABLES FOR THE COURSE:
 
 ---
 
-#### Intermediate Deliverables
+### Intermediate Deliverables
 
 1. Progress Report I
 
@@ -35,13 +35,14 @@ Blockers indicate that you are stuck and need help
 
 ---
 
-#### Final Deliverables
+### Final Deliverables
 
-3. Package containing all data products and research artifacts
+**3. Package containing all data products and research artifacts**
    - To be shared with clients and other stakeholders
-   - Students should coordinate with stakeholders to determine best method for delivery    
+   - Students should coordinate with stakeholders to determine best method for delivery 
 
-4. Six-page publishable paper
+
+**4. Six-page publishable paper**
    - The paper will summarize the research and findings
    - Submit the file on Canvas
    - Include customary sections for research paper such as:
@@ -52,9 +53,10 @@ Blockers indicate that you are stuck and need help
      - Summary
      - Next Steps
    - Publication is not a requirement but it is encouraged!
-   - See paper rubric for how the paper will be graded
+   - See paper rubric for how the paper will be graded 
 
-5. Slide deck for presentation
+
+**5. Slide deck for presentation**
    - Presented by all students at the Capstone Presentation event
    - Please use the SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_final_presentation_template.pptx)
    - Submit the file on Canvas
@@ -69,15 +71,17 @@ Blockers indicate that you are stuck and need help
        - Modeling
    - See presentation [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_presentation.md) for how the presentation will be graded
 
-6. Poster of your work
-    - Brief, visual summarization of research
-    - To be displayed at the Capstone Presentation event
-    - Please use this SDS-branded .ppt [template](). You can modify as appropriate.
-    - Submit the file on Canvas
-    - SDS will print the poster for you and cover the cost
-    - See poster [rubric]() for how the poster will be graded
 
-7. Code Repository  
+**6. Poster of your work**
+  - Brief, visual summarization of research
+  - To be displayed at the Capstone Presentation event
+  - Please use this SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_poster_template.pptx). You can modify as appropriate.
+  - Submit the file on Canvas
+  - SDS will print the poster for you and cover the cost
+  - See poster [rubric]() for how the poster will be graded
+
+
+**7. Code Repository**  
     - Submit the link to your GitHub repository containing all finalized, documented code  
     - Check with the sponsor if this repo can be public; otherwise it can be kept private to stakeholders
 
