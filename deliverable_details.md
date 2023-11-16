@@ -72,7 +72,7 @@ Blockers indicate that you are stuck and need help
 6. Poster of your work
     - Brief, visual summarization of research
     - To be displayed at the Capstone Presentation event
-    - Please use this SDS-branded .ppt [template](). You can modify as appropriate.
+    - Please use this SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_poster_template.pptx). You can modify as appropriate.
     - Submit the file on Canvas
     - SDS will print the poster for you and cover the cost
     - See poster [rubric]() for how the poster will be graded
