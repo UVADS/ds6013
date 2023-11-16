@@ -1,14 +1,14 @@
 ### Rubric for Final Presentation
 
-Possible Points Total: 10
+Possible Points Total: 15
 
 | Category   | Item    | Points |
 | -------- | ------- | :-------: |
-| Content | Included Project Purpose and Background | 1 |
-| Content | Included Data Discussion | 1 |
-| Content | Included Assumptions and Limitations | 1 |
-| Content | Included Methods Discussion | 1 |
-| Content | Included Summary / Findings | 1 |
+| Content | Included Project Purpose and Background | 2 |
+| Content | Included Data Discussion | 2 |
+| Content | Included Assumptions and Limitations | 2 |
+| Content | Included Methods Discussion | 2 |
+| Content | Included Summary / Findings | 2 |
 | Delivery | Presenters had command of material | 1 |
 | Delivery | Presentation fit in time allowed | 1 |
 | Style | Slides were clear  | 1 |
