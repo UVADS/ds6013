@@ -1,8 +1,6 @@
-![sds_logo](Isolated.png "Title")
+![sds_logo](https://github.com/UVADS/ds6013/blob/main/sds_logo.png)
 
 ## DETAILS ON DELIVERABLES FOR THE COURSE:
-
----
 
 ### Intermediate Deliverables
 
@@ -31,8 +29,8 @@ Details: The progress reports can build from the Project Plan. They should inclu
 - Concerns and Blockers
 
 NOTE:  
-Concerns are things to keep in mind but might not yet impede progress  
-Blockers indicate that you are stuck and need help
+*Concerns* are things to keep in mind but might not yet impede progress  
+*Blockers* indicate that you are stuck and need help
 
 
 ---
@@ -87,4 +85,3 @@ Blockers indicate that you are stuck and need help
   - Submit the link to your GitHub repository containing all finalized, documented code  
   - Check with the sponsor if this repo can be public; otherwise it can be kept private to stakeholders
 
----
