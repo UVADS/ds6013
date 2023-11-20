@@ -41,12 +41,17 @@ NOTE:
    - To be shared with clients and other stakeholders
    - Students should coordinate with stakeholders to determine best method for delivery 
 
+---
 
 **4. Publishable paper**
    - Length: 6 pages maximum
    - The paper will summarize the research and findings
+   - Submit the file on Canvas
+   - Publication is not a requirement but it is encouraged!
+   - See paper [rubric]() for grading breakdown
    
    **Authors**  
+   - Clients are cited as authors only if they make a direct contribution to the paper
    - Capstone advisors are occasionally listed as authors. If so, they are listed last. Include them **only** if they made a direct contribution to the paper **and** if they wish to be included.
 
    **Acknowledgments**  
@@ -65,24 +70,14 @@ NOTE:
    - Name all important code packages used
 
    **Figures and Tables**
-   - Use block diagrams to describe data flow (pipeline) when appropriate.
-   - Show mathematical formulae for core methods.
-   - Tables should be legible and within the page’s columns.
-   - Diagrams should be labeled clearly, crisp, and readable.
+   - Use block diagrams to describe data flow (pipeline) when appropriate
+   - Show mathematical formulae for core methods
+   - Tables should be legible and within the page’s columns
+   - Diagrams should be labeled clearly, crisp, and readable
 
-   - Submit the file on Canvas
-   - Include customary sections for research paper such as:
-     - Abstract
-     - Data
-     - Methods
-     - Conclusions
-     - Summary
-     - Next Steps
-   - Publication is not a requirement but it is encouraged!
-   - See paper [rubric]() for grading breakdown
-
-   **Outline**
-   These sections are often included in capstone papers. In some cases, you may consolidate the sections.
+   **Outline**  
+   The sections listed below are often included in capstone papers.  
+   In some cases, you may consolidate the sections.
 
    - Introduction / Project Goal / Research Questions
    - Literature Review / Background / Related Work
@@ -97,6 +92,7 @@ NOTE:
    - https://ieeexplore.ieee.org/document/7937744
    - https://ieeexplore.ieee.org/document/7489317
 
+---
 
 **5. Slide deck for presentation**
    - Presented by all students at the Capstone Presentation event
