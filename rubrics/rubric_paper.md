@@ -19,5 +19,5 @@ Possible Points Total: 35
 | Style | Uses second person plural (“we”) of passive voice where appropriate. | 2 |
 | Style | Writing is clear and direct. | 2 |
 
-**NOTE**
+**NOTE**  
 For each *Content* item, full points are awarded if the item is well developed. 
