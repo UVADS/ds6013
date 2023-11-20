@@ -73,7 +73,7 @@ NOTE:
    - Use block diagrams to describe data flow (pipeline) when appropriate
    - Show mathematical formulae for core methods
    - Tables should be legible and within the page’s columns
-   - Diagrams should be labeled clearly, crisp, and readable
+   - Figures should be labeled clearly, crisp, and readable
 
    **Outline**  
    The sections listed below are often included in capstone papers.  
