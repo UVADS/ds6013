@@ -48,7 +48,7 @@ NOTE:
    - The paper will summarize the research and findings
    - Submit the file on Canvas
    - Publication is not a requirement but it is encouraged!
-   - See paper [rubric]() for grading breakdown
+   - See paper [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_paper.md) for grading breakdown
    
    **Authors**  
    - Clients are cited as authors only if they make a direct contribution to the paper
