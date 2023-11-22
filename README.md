@@ -4,12 +4,9 @@
 
 This repo is a work in progress :construction_worker:
 
-Currently adding details on deliverables
+Markdown Icons:  [Source for github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
-Testing some icons:  [Source for github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-
-Things to consider: 
+Things to add: 
 
 :star: Add awards for presentations
 
-:white_check_mark: Things to complete
