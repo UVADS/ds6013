@@ -4,7 +4,7 @@
 
 This repo is a work in progress :construction_worker:
 
-Markdown Icons:  [Source for github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+Markdown [Icons](https://gist.github.com/rxaviers/7360908)
 
 Things to add: 
 
