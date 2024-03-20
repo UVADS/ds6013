@@ -7,7 +7,7 @@
 
 | Event Info   |   | 
 |---|---|
-| **Capstone Event Date**   |  Wednesday, March 1 | 
+| **Capstone Event Date**   |  Wednesday, May 1 | 
 | **Location**   |  The Graduate Hotel. 1309 W Main St, Charlottesville, VA 22903 | 
 | **Time**  |  8:45 am - 3pm |
 | **Zoom link**  |  [TBD] |
