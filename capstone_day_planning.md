@@ -1,8 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-# Capstone Day Information
-#### Last updated: March 20, 2024
+#### Last updated: March 21, 2024
 
 **PURPOSE:** Details for the presentation event
  
