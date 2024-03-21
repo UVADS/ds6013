@@ -1,3 +1,7 @@
+
+![capstone_day](https://github.com/UVADS/ds6015/blob/main/capstone_day.png)
+
+
 # Capstone Day Information
 #### Last updated: March 20, 2024
 
