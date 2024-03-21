@@ -1,6 +1,5 @@
 
-![capstone_day](https://github.com/UVADS/ds6015/blob/main/capstone_day.png)
-
+<img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
 # Capstone Day Information
 #### Last updated: March 20, 2024
@@ -13,7 +12,7 @@
 |   |   | 
 |---|---|
 | **Capstone Event Date**   |  Wednesday, May 1 | 
-| **Location**   |  The Graduate Hotel. 1309 W Main St, Charlottesville, VA 22903 | 
+| **Location**   |  The Graduate Hotel, Piedmont Room [confirm]. <br> 1309 W Main St, Charlottesville, VA 22903 | 
 | **Parking Details**   |  [TBD] | 
 | **Time**  |  8:45 am - 3pm |
 | **Zoom link**  |  [TBD] |
