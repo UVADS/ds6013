@@ -63,7 +63,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 - Each team will have **10** mins for presentation and **3** mins for Q&A
 - During Q&A, the next team will transition *on deck*
 
-[TBD] Class photo at Rotunda  
+[TBD] Class photo :camera: at Rotunda  
 
 | Start Time | Title |
 |:---|:---|
