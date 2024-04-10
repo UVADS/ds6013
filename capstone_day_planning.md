@@ -51,11 +51,35 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 
 #### Presentation Schedule
 
-- Each team will have **7** mins for presentation and **3** mins for Q&A
+- Each team will have **10** mins for presentation and **3** mins for Q&A
 - During Q&A, the next team will transition *on deck*
 
-| Time | Group  | Title | Students | Mentor | Sponsor |
-|---|---|---|---|---|---|
-| [TBD] |  [TBD] |  [TBD] |  [TBD] |  [TBD] |  [TBD] |
+| StartTime | Title |
+|---|---|
+|	10:10am	| Plan-EO: Mapping the bugs that make kids sick in tropical regions of the globe |
+
+[TBD] Class photo at Rotunda  
+9:30am-10:00am		Open for seating	
+	10:00am	Opening Remarks	
+			group
+	10:10am	Plan-EO: Mapping the bugs that make kids sick in tropical regions of the globe	Healthcare
+	10:23am	Imputation of Missing Continuous Glucose Monitoring Sensor Data: Best Methods and Identification of Limits	Healthcare
+	10:36am	Deep Learning-based EEG Analysis for Sleep Apnea Detection	Healthcare
+	10:49am	Develop an Enterprise Architecture Assistant to Improve the Business Decision-making Process	Decision Making and Optimization
+	11:02am	BREAK	
+	11:10am	An ML approach to optimizing project planning for the ALMA Observatory	Decision Making and Optimization
+	11:23am	Prediction on Federal Purchasing Behaviors on Small Business	Decision Making and Optimization
+	11:36am	Metadata-to-Concept: Semi-automatic extraction of entities from image metadata on Wikimedia Commons	Extraction and Classification Methods
+	11:49am	Video analysis of parent-child interactions	Extraction and Classification Methods
+	12:02pm Lunch
+	1:00pm	Leveraging Natural Language Processing for Focused Ultrasound Research Taxonomy Development	Extraction and Classification Methods
+	1:13pm	Identifying Illegal AIS Tagged Fishing Nets	Extraction and Classification Methods
+	1:26pm	Exploring predictability of winter California hydroclimate with deep learning	Climate and Society
+	1:39pm	Developing a path to net zero carbon emissions in Virginia	Climate and Society
+	1:52pm	Recognition of Human Trafficking with Data Science	Climate and Society
+	2:05pm	ForHumanity Auditing AI System	Climate and Society
+	2:18pm	Generative AI to Facilitate Legislative Knowledge Management	Climate and Society
+	2:31pm	Break and submit nominations by 2:45pm	
+	2:50pm	Awards and Closing 	
 
 
