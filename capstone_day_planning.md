@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: April 5, 2024
+#### Last updated: April 10, 2024
 
 **PURPOSE:** Details for the presentation event
  
@@ -23,9 +23,11 @@
 - Poster: Each group will elect one student to upload their poster powerpoint [here](https://myuva.sharepoint.com/sites/CapstoneDayMay2023/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=YMSE3X&CT=1712317314148&OR=OWA%2DNT%2DMail&CID=0f04a2c5%2D52b0%2Db1bd%2Daa75%2Dddfbcdfe6941&RootFolder=%2Fsites%2FCapstoneDayMay2023%2FShared%20Documents%2FGeneral%2F2024%2FCapstone%20Posters%202024&FolderCTID=0x01200053A5E6894AE78F4A99163ED7E89CD469) by **Wed, April 17.**
 - Presentation: details [TBD]
 
+---
+
 #### Awards
 
-- Awards will be offered to capstone teams in four broad areas. 
+Awards will be offered to capstone teams in four broad areas. 
 
 Awards will be offered on the basis of student and audience voting at the end of the session. (Members of the audience may vote if they have participated in the entire event.) 
 
@@ -35,17 +37,17 @@ The categories and criteria correspond to the values and goals of data science i
 
 The four awards are: 
 
-☆ Most Innovative Analytical Solution. This award will go to the project that exhibits high innovation and ingenuity in the development of a model to address their client’s requirements. Criteria include appropriateness of model selection for the problem, the novelty of the model as adapted to the problem, and the performance of the model. By model, we mean the overall computational and mathematical model chosen and developed to extract meaning and value from the data. 
+☆ **Most Innovative Analytical Solution.** This award will go to the project that exhibits high innovation and ingenuity in the development of a model to address their client’s requirements. Criteria include appropriateness of model selection for the problem, the novelty of the model as adapted to the problem, and the performance of the model. By model, we mean the overall computational and mathematical model chosen and developed to extract meaning and value from the data. 
 
-☆ Most Compelling Data Visualizations. This award will go to the paper and presentation that employs the most compelling and impactful visualizations. Criteria include the clarity and legibility of charts and graphs, the overall ability of the visualizations to translate complex information into user-interpretable form, and considerations for accessibility (e.g.color-blind friendly, vision-impaired friendly, etc.). 
+☆ **Most Compelling Data Visualizations.** This award will go to the paper and presentation that employs the most compelling and impactful visualizations. Criteria include the clarity and legibility of charts and graphs, the overall ability of the visualizations to translate complex information into user-interpretable form, and considerations for accessibility (e.g.color-blind friendly, vision-impaired friendly, etc.). 
 
-☆ Most Engaging Data Story This award will go the team who presents the most engaging data story — the narrative that best connects the problem, the data, the solution, the results, and the impact of the work done. Criteria include the clarity of language, the overall intelligibility to non-technical stakeholders, the quality of the presentation and responses to questions. 
+☆ **Most Engaging Data Story.** This award will go the team who presents the most engaging data story — the narrative that best connects the problem, the data, the solution, the results, and the impact of the work done. Criteria include the clarity of language, the overall intelligibility to non-technical stakeholders, the quality of the presentation and responses to questions. 
 
-☆ Most Impactful Ethical Engagement This award will go to the team whose work exhibits high ethical awareness and impact. Criteria include the degree to which ethical considerations play a part in the solution, sensitivity to limitations posed by ethical considerations, the potential impact of the work for the social good, and concern for parties affected by the problem or solution. 
+☆ **Most Impactful Ethical Engagement.** This award will go to the team whose work exhibits high ethical awareness and impact. Criteria include the degree to which ethical considerations play a part in the solution, sensitivity to limitations posed by ethical considerations, the potential impact of the work for the social good, and concern for parties affected by the problem or solution. 
 
 Note that the criteria specified are not hard and fast — they are prompts to get you to view each project through a certain lens. 
 
-
+---
 
 #### Presentation Schedule
 
