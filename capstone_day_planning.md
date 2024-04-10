@@ -34,7 +34,7 @@
   ```1036am_deep_learning_based```  
   ```1049am_develop_an_enterprise```
 
-  You cannot edit files after the submission deadline.
+  Files cannot be edited after the submission deadline.
 
 ## Awards
 
