@@ -8,7 +8,7 @@
 **PURPOSE:** Details for the presentation event including:
 
 - [Event and Venue Info](#event-and-venue-info)
-- [In Advance of the Event](#in-advance-of-the-event)
+- [Preparing for the Event](#preparing-for-the-event)
 - [Awards](#awards)
 - [Presentation Schedule](#presentation-schedule)
 
@@ -23,7 +23,7 @@
 | **Dress code**  |  Business casual. No jeans. |
 
 
-## In Advance of the Event
+## Preparing for the Event
 
 - Poster: Each group will elect one student to upload their poster powerpoint [here](https://myuva.sharepoint.com/sites/CapstoneDayMay2023/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=YMSE3X&CT=1712317314148&OR=OWA%2DNT%2DMail&CID=0f04a2c5%2D52b0%2Db1bd%2Daa75%2Dddfbcdfe6941&RootFolder=%2Fsites%2FCapstoneDayMay2023%2FShared%20Documents%2FGeneral%2F2024%2FCapstone%20Posters%202024&FolderCTID=0x01200053A5E6894AE78F4A99163ED7E89CD469) by **Wed, April 17.**
 - Presentation: Submit on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2024/Capstone%20Presentation%20Day%20Slides%202024?csf=1&web=1&e=P0ZjHZ)
