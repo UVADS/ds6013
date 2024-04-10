@@ -11,8 +11,6 @@
 - [In Advance of the Event](#in-advance-of-the-event)
 - [Awards](#awards)
 - [Presentation Schedule](#presentation-schedule)
- 
----
 
 ## Event and Venue Info
 |   |   | 
@@ -38,8 +36,6 @@
 
   You cannot edit files after the submission deadline.
 
----
-
 ## Awards
 
 Awards will be offered to capstone teams in four broad areas. 
@@ -61,8 +57,6 @@ The four awards are:
 ☆ **Most Impactful Ethical Engagement.** This award will go to the team whose work exhibits high ethical awareness and impact. Criteria include the degree to which ethical considerations play a part in the solution, sensitivity to limitations posed by ethical considerations, the potential impact of the work for the social good, and concern for parties affected by the problem or solution. 
 
 Note that the criteria specified are not hard and fast — they are prompts to get you to view each project through a certain lens. 
-
----
 
 ## Presentation Schedule
 
