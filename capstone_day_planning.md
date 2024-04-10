@@ -25,7 +25,27 @@
 
 #### Awards
 
-- Details [TBD]
+- Awards will be offered to capstone teams in four broad areas. 
+
+Awards will be offered on the basis of student and audience voting at the end of the session. (Members of the audience may vote if they have participated in the entire event.) 
+
+During the day, you are asked to take notes on each presentation relative to the categories and criteria described below. 
+
+The categories and criteria correspond to the values and goals of data science in the broad sense to which you have been introduced in your classes and cohort experience. 
+
+The four awards are: 
+
+☆ Most Innovative Analytical Solution. This award will go to the project that exhibits high innovation and ingenuity in the development of a model to address their client’s requirements. Criteria include appropriateness of model selection for the problem, the novelty of the model as adapted to the problem, and the performance of the model. By model, we mean the overall computational and mathematical model chosen and developed to extract meaning and value from the data. 
+
+☆ Most Compelling Data Visualizations. This award will go to the paper and presentation that employs the most compelling and impactful visualizations. Criteria include the clarity and legibility of charts and graphs, the overall ability of the visualizations to translate complex information into user-interpretable form, and considerations for accessibility (e.g.color-blind friendly, vision-impaired friendly, etc.). 
+
+☆ Most Engaging Data Story This award will go the team who presents the most engaging data story — the narrative that best connects the problem, the data, the solution, the results, and the impact of the work done. Criteria include the clarity of language, the overall intelligibility to non-technical stakeholders, the quality of the presentation and responses to questions. 
+
+☆ Most Impactful Ethical Engagement This award will go to the team whose work exhibits high ethical awareness and impact. Criteria include the degree to which ethical considerations play a part in the solution, sensitivity to limitations posed by ethical considerations, the potential impact of the work for the social good, and concern for parties affected by the problem or solution. 
+
+Note that the criteria specified are not hard and fast — they are prompts to get you to view each project through a certain lens. 
+
+
 
 #### Presentation Schedule
 
