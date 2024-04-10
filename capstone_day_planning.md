@@ -3,11 +3,16 @@
 
 #### Last updated: April 10, 2024
 
-**PURPOSE:** Details for the presentation event
+**PURPOSE:** Details for the presentation event including:
+
+- [Event and Venue Info](#Event and Venue Info)
+- To Dos in Advance of the Event
+- Awards
+- Presentation Schedule
  
 ---
 
-#### Event and Venue Info
+## Event and Venue Info
 |   |   | 
 |---|---|
 | **Capstone Event Date**   |  Wednesday, May 1 | 
@@ -16,13 +21,20 @@
 | **Time**  |  8:45 am - 3pm <br> Sponsors and faculty can drop in or stay for the full event |
 | **Zoom link**  |  [TBD] |
 | **Dress code**  |  Business casual. No jeans. |
-| **Awesome thing**  |  [TBD] |
 
 
 #### In Advance of the Event
 
 - Poster: Each group will elect one student to upload their poster powerpoint [here](https://myuva.sharepoint.com/sites/CapstoneDayMay2023/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=YMSE3X&CT=1712317314148&OR=OWA%2DNT%2DMail&CID=0f04a2c5%2D52b0%2Db1bd%2Daa75%2Dddfbcdfe6941&RootFolder=%2Fsites%2FCapstoneDayMay2023%2FShared%20Documents%2FGeneral%2F2024%2FCapstone%20Posters%202024&FolderCTID=0x01200053A5E6894AE78F4A99163ED7E89CD469) by **Wed, April 17.**
-- Presentation: details [TBD]
+- Presentation: Submit on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2024/Capstone%20Presentation%20Day%20Slides%202024?csf=1&web=1&e=P0ZjHZ)
+
+  Filenames: Save all files with time AND first few words of the title.  
+  Examples include: 
+
+  ```1036am Deep Learning based```  
+  ```1049am Develop an Enterprise```
+
+  You cannot edit files after the submission deadline.
 
 ---
 
@@ -30,7 +42,7 @@
 
 Awards will be offered to capstone teams in four broad areas. 
 
-Awards will be offered on the basis of student and audience voting at the end of the session. (Members of the audience may vote if they have participated in the entire event.) 
+Awards will be offered on the basis of student and audience voting at the end of the session. (Members of the audience may vote if they have participated in the entire event). 
 
 During the day, you are asked to take notes on each presentation relative to the categories and criteria described below. 
 
@@ -55,32 +67,32 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 - Each team will have **10** mins for presentation and **3** mins for Q&A
 - During Q&A, the next team will transition *on deck*
 
-| StartTime | Title |
-|---|---|
-|	10:10am	| Plan-EO: Mapping the bugs that make kids sick in tropical regions of the globe |
-
 [TBD] Class photo at Rotunda  
-9:30am-10:00am		Open for seating	
-	10:00am	Opening Remarks	
-			group
-	10:10am	Plan-EO: Mapping the bugs that make kids sick in tropical regions of the globe	Healthcare
-	10:23am	Imputation of Missing Continuous Glucose Monitoring Sensor Data: Best Methods and Identification of Limits	Healthcare
-	10:36am	Deep Learning-based EEG Analysis for Sleep Apnea Detection	Healthcare
-	10:49am	Develop an Enterprise Architecture Assistant to Improve the Business Decision-making Process	Decision Making and Optimization
-	11:02am	BREAK	
-	11:10am	An ML approach to optimizing project planning for the ALMA Observatory	Decision Making and Optimization
-	11:23am	Prediction on Federal Purchasing Behaviors on Small Business	Decision Making and Optimization
-	11:36am	Metadata-to-Concept: Semi-automatic extraction of entities from image metadata on Wikimedia Commons	Extraction and Classification Methods
-	11:49am	Video analysis of parent-child interactions	Extraction and Classification Methods
-	12:02pm Lunch
-	1:00pm	Leveraging Natural Language Processing for Focused Ultrasound Research Taxonomy Development	Extraction and Classification Methods
-	1:13pm	Identifying Illegal AIS Tagged Fishing Nets	Extraction and Classification Methods
-	1:26pm	Exploring predictability of winter California hydroclimate with deep learning	Climate and Society
-	1:39pm	Developing a path to net zero carbon emissions in Virginia	Climate and Society
-	1:52pm	Recognition of Human Trafficking with Data Science	Climate and Society
-	2:05pm	ForHumanity Auditing AI System	Climate and Society
-	2:18pm	Generative AI to Facilitate Legislative Knowledge Management	Climate and Society
-	2:31pm	Break and submit nominations by 2:45pm	
-	2:50pm	Awards and Closing 	
+
+| StartTime | Title |
+|:---|:---|
+| 9:30am | Open for Seating |
+| 10:00am | Opening Remarks |
+| 10:10am | Plan-EO: Mapping the bugs that make kids sick in tropical regions of the globe |
+| 10:23am | Imputation of Missing Continuous Glucose Monitoring Sensor Data: Best Methods and Identification of Limits |
+| 10:36am | Deep Learning-based EEG Analysis for Sleep Apnea Detection |
+| 10:49am | Develop an Enterprise Architecture Assistant to Improve the Business Decision-making Process |
+| 11:02am | BREAK |
+| 11:10am | An ML approach to optimizing project planning for the ALMA Observatory |
+| 11:23am | Prediction on Federal Purchasing Behaviors on Small Business |
+| 11:36am | Metadata-to-Concept: Semi-automatic extraction of entities from image metadata on Wikimedia Commons |
+| 11:49am | Video analysis of parent-child interactions |
+| 12:02pm | LUNCH :sandwich: | 
+| 1:00pm | Leveraging Natural Language Processing for Focused Ultrasound Research Taxonomy Development | 
+| 1:13pm | Identifying Illegal AIS Tagged Fishing Nets | 
+| 1:26pm | Exploring predictability of winter California hydroclimate with deep learning | 
+| 1:39pm | Developing a path to net zero carbon emissions in Virginia | 
+| 1:52pm | Recognition of Human Trafficking with Data Science | 
+| 2:05pm | ForHumanity Auditing AI System | 
+| 2:18pm | Generative AI to Facilitate Legislative Knowledge Management | 
+| 2:31pm | Break and submit awards :trophy: nominations by 2:45pm | 
+| 2:50pm | Awards and Closing | 
+
+
 
 
