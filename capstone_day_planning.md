@@ -3,12 +3,14 @@
 
 #### Last updated: April 10, 2024
 
+---
+
 **PURPOSE:** Details for the presentation event including:
 
-- [Event and Venue Info](#Event and Venue Info)
-- To Dos in Advance of the Event
-- Awards
-- Presentation Schedule
+- [Event and Venue Info](#event-and-venue-info)
+- [In Advance of the Event](#in-advance-of-the-event)
+- [Awards](#awards)
+- [Presentation Schedule](#presentation-schedule)
  
 ---
 
@@ -23,22 +25,22 @@
 | **Dress code**  |  Business casual. No jeans. |
 
 
-#### In Advance of the Event
+## In Advance of the Event
 
 - Poster: Each group will elect one student to upload their poster powerpoint [here](https://myuva.sharepoint.com/sites/CapstoneDayMay2023/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=YMSE3X&CT=1712317314148&OR=OWA%2DNT%2DMail&CID=0f04a2c5%2D52b0%2Db1bd%2Daa75%2Dddfbcdfe6941&RootFolder=%2Fsites%2FCapstoneDayMay2023%2FShared%20Documents%2FGeneral%2F2024%2FCapstone%20Posters%202024&FolderCTID=0x01200053A5E6894AE78F4A99163ED7E89CD469) by **Wed, April 17.**
 - Presentation: Submit on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2024/Capstone%20Presentation%20Day%20Slides%202024?csf=1&web=1&e=P0ZjHZ)
 
   Filenames: Save all files with time AND first few words of the title.  
-  Examples include: 
+  Examples: 
 
-  ```1036am Deep Learning based```  
-  ```1049am Develop an Enterprise```
+  ```1036am_deep_learning_based```  
+  ```1049am_develop_an_enterprise```
 
   You cannot edit files after the submission deadline.
 
 ---
 
-#### Awards
+## Awards
 
 Awards will be offered to capstone teams in four broad areas. 
 
@@ -62,14 +64,14 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 
 ---
 
-#### Presentation Schedule
+## Presentation Schedule
 
 - Each team will have **10** mins for presentation and **3** mins for Q&A
 - During Q&A, the next team will transition *on deck*
 
 [TBD] Class photo at Rotunda  
 
-| StartTime | Title |
+| Start Time | Title |
 |:---|:---|
 | 9:30am | Open for Seating |
 | 10:00am | Opening Remarks |
