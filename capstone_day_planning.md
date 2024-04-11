@@ -18,7 +18,7 @@
 | **Capstone Event Date**   |  Wednesday, May 1 | 
 | **Location**   |  The Graduate Hotel, Piedmont Room. <br> 1309 W Main St, Charlottesville, VA 22903 | 
 | **Parking Details**   |  Sponsors can [RSVP](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW) for free parking at the hotel | 
-| **Time**  |  8:45 am - 3pm <br> Sponsors and faculty can drop in or stay for the full event |
+| **Time**  |  9:30am - 3pm <br> Sponsors and faculty can drop in or stay for the full event |
 | **Zoom link**  |  [TBD] |
 | **Dress code**  |  Business casual. No jeans. |
 
