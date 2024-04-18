@@ -87,7 +87,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 | 11:10am | An ML approach to optimizing project planning for the ALMA Observatory |
 | 11:23am | Prediction on Federal Purchasing Behaviors on Small Business |
 | 11:36am | Metadata-to-Concept: Semi-automatic extraction of entities from image metadata on Wikimedia Commons |
-| 11:49am | Video analysis of parent-child interactions |
+| 11:49am | ML Audio Classification of Parent-Infant Interactions |
 | 12:02pm | LUNCH :sandwich: | 
 | 1:00pm | Leveraging Natural Language Processing for Focused Ultrasound Research Taxonomy Development | 
 | 1:13pm | Identifying Illegal AIS Tagged Fishing Nets | 
