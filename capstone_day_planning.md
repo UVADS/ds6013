@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: April 10, 2024
+#### Last updated: April 19, 2024
 
 ---
 
@@ -73,7 +73,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 - Each team will have **10** mins for presentation and **3** mins for Q&A
 - During Q&A, the next team will transition *on deck*
 
-[TBD] Class photo :camera: at Rotunda  
+- Class photo :camera:. Meet 9am at the Rotunda. Details to follow.
 
 | Start Time | Title |
 |:---|:---|
@@ -99,6 +99,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 | 2:31pm | Break and submit awards :trophy: nominations by 2:45pm | 
 | 2:50pm | Awards and Closing | 
 
+- Reception to follow closing. Location: adjacent room at The Graduate.
 
 
 
