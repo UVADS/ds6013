@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: April 19, 2024
+#### Last updated: April 23, 2024
 
 ---
 
@@ -19,7 +19,7 @@
 | **Location**   |  The Graduate Hotel, Piedmont Room. <br> 1309 W Main St, Charlottesville, VA 22903 | 
 | **Parking Details**   |  Sponsors can [RSVP](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW) for free parking at the hotel | 
 | **Time**  |  9:30am - 3pm <br> Sponsors and faculty can drop in or stay for the full event |
-|**Food!** | Breakfast, lunch, and snacks provided |
+|**Food!** | Coffee, pastries, lunch, and snacks provided |
 | **Zoom link**  |  [TBD] |
 | **Dress code**  |  Business casual. No jeans. |
 
@@ -27,7 +27,7 @@
 ## Preparing for the Event
 
 - Poster: Each group will elect one student to upload their poster powerpoint [here](https://myuva.sharepoint.com/sites/CapstoneDayMay2023/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=YMSE3X&CT=1712317314148&OR=OWA%2DNT%2DMail&CID=0f04a2c5%2D52b0%2Db1bd%2Daa75%2Dddfbcdfe6941&RootFolder=%2Fsites%2FCapstoneDayMay2023%2FShared%20Documents%2FGeneral%2F2024%2FCapstone%20Posters%202024&FolderCTID=0x01200053A5E6894AE78F4A99163ED7E89CD469) by **Wed, April 17.**
-- Presentation: Submit on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2024/Capstone%20Presentation%20Day%20Slides%202024?csf=1&web=1&e=P0ZjHZ) by **Sunday, April 28 at 11:59pm ET.**
+- Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2024/Capstone%20Presentation%20Day%20Slides%202024?csf=1&web=1&e=P0ZjHZ) by **Sunday, April 28 at 11:59pm ET.**
 
 
   Filenames: Save all files with time AND first few words of the title.  
@@ -77,7 +77,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 
 | Start Time | Title |
 |:---|:---|
-| 9:30am | Open for Seating |
+| 9:30am | Open for Seating and Coffee / Pastries |
 | 10:00am | Opening Remarks |
 | 10:10am | Plan-EO: Mapping the bugs that make kids sick in tropical regions of the globe |
 | 10:23am | Imputation of Missing Continuous Glucose Monitoring Sensor Data: Best Methods and Identification of Limits |
