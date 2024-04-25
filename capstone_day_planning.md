@@ -20,7 +20,7 @@
 | **Parking Details**   |  Sponsors can [RSVP](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW) for free parking at the hotel | 
 | **Time**  |  9:30am - 3pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food!** | Coffee, pastries, lunch, and snacks provided |
-| **Zoom link**  |  [TBD] |
+| **Zoom**  |  [link](https://virginia.zoom.us/j/93686012699?pwd=eUVCT3p1QitmN3dUeTNtc3JVanJuUT09&from=addon) |
 | **Dress code**  |  Business casual. No jeans. |
 
 
