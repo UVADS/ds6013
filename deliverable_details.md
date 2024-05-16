@@ -40,6 +40,7 @@ NOTE:
 **3. Package containing all data products and research artifacts**
    - To be shared with clients and other stakeholders
    - Students should coordinate with stakeholders to determine best method for delivery 
+   - Students to answer sponsor questions about deliverables
 
 ---
 
@@ -105,11 +106,13 @@ NOTE:
      - Stakeholders
      - Table of Contents
      - Project Purpose and Background
+     - Brief Sponsor Background
      - Data Discussion
      - Assumptions and Limitations
      - Methods Discussion:
        - Data Pipelines and Processing
        - Modeling
+     - Discussion on Benefits of this Work (why it is important)
    - See presentation [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_presentation.md) for grading breakdown
 
 
@@ -117,7 +120,7 @@ NOTE:
   - Brief, visual summarization of research
   - To be displayed at the Capstone Presentation event
   - Please use this SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_poster_template.pptx). You can modify as appropriate.
-  - Submit the file on Canvas
+  - Submit the file on Teams
   - SDS will print the poster for you and cover the cost
   - See poster [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_poster.md) for grading breakdown
 
@@ -125,4 +128,4 @@ NOTE:
 **7. Code Repository**  
   - Submit the link to your GitHub repository containing all finalized, documented code  
   - Check with the sponsor if this repo can be public; otherwise it can be kept private to stakeholders
-
+  - For future use, students to ensure that sponsor can run the code
