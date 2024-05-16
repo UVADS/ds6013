@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: April 23, 2024
+#### Last updated: April 29, 2024
 
 ---
 
@@ -91,8 +91,8 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 | 12:02pm | LUNCH :sandwich: | 
 | 1:00pm | Leveraging Natural Language Processing for Focused Ultrasound Research Taxonomy Development | 
 | 1:13pm | Identifying Illegal AIS Tagged Fishing Nets | 
-| 1:26pm | Exploring predictability of winter California hydroclimate with deep learning | 
-| 1:39pm | Developing a path to net zero carbon emissions in Virginia | 
+| 1:26pm | Exploring Predictability of Winter California Hydroclimate with Deep Learning | 
+| 1:39pm | Predicting Virginia County Suitability for Carbon Dioxide Removal Techniques | 
 | 1:52pm | Recognition of Human Trafficking with Data Science | 
 | 2:05pm | ForHumanity Auditing AI System | 
 | 2:18pm | Generative AI to Facilitate Legislative Knowledge Management | 
