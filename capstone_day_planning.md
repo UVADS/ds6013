@@ -1,7 +1,9 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: April 29, 2024
+#### Last updated: February 19, 2025
+
+[NOTE: THIS SITE IS BEING UPDATED WITH INFORMATION FOR THE 2025 EVENT]
 
 ---
 
@@ -15,12 +17,12 @@
 ## Event and Venue Info
 |   |   | 
 |---|---|
-| **Capstone Event Date**   |  Wednesday, May 1 | 
-| **Location**   |  The Graduate Hotel, Piedmont Room. <br> 1309 W Main St, Charlottesville, VA 22903 | 
-| **Parking Details**   |  Sponsors can [RSVP](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW) for free parking at the hotel | 
-| **Time**  |  9:30am - 3pm <br> Sponsors and faculty can drop in or stay for the full event |
+| **Capstone Event Date**   |  Wednesday, April 30 | 
+| **Location**   |  [TBD], Charlottesville, VA 22903 | 
+| **Parking Details**   |  [TBD] | 
+| **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food!** | Coffee, pastries, lunch, and snacks provided |
-| **Zoom**  |  [link](https://virginia.zoom.us/j/93686012699?pwd=eUVCT3p1QitmN3dUeTNtc3JVanJuUT09&from=addon) |
+| **Zoom**  |  [TBD] |
 | **Dress code**  |  Business casual. No jeans. |
 
 
