@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: February 19, 2025
+#### Last updated: March 5, 2025
 
 [NOTE: THIS SITE IS BEING UPDATED WITH INFORMATION FOR THE 2025 EVENT]
 
@@ -18,7 +18,7 @@
 |   |   | 
 |---|---|
 | **Capstone Event Date**   |  Wednesday, April 30 | 
-| **Location**   |  [TBD], Charlottesville, VA 22903 | 
+| **Location**   |  Rotunda Dome Room, Charlottesville, VA 22903 | 
 | **Parking Details**   |  [TBD] | 
 | **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food!** | Coffee, pastries, lunch, and snacks provided |
