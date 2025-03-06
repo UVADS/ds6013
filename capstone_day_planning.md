@@ -21,7 +21,7 @@
 | **Location**   |  Rotunda Dome Room, Charlottesville, VA 22903 | 
 | **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food** | Lunch provided |
-| **Zoom**  |  https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon#success |
+| **Zoom**  | https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon |
 | **Dress code**  |  Business casual |
 
 
