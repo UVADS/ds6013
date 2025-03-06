@@ -116,17 +116,7 @@ NOTE:
      - Discussion on Benefits of this Work (why it is important)
    - See presentation [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_presentation.md) for grading breakdown
 
-
-**6. Poster of your work**
-  - Brief, visual summarization of research
-  - To be displayed at the Capstone Presentation event
-  - Please use this SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_poster_template.pptx). You can modify as appropriate.
-  - Submit the file on Teams
-  - SDS will print the poster for you and cover the cost
-  - See poster [rubric](https://github.com/UVADS/ds6013/blob/main/rubrics/rubric_poster.md) for grading breakdown
-
-
-**7. Code Repository**  
+**6. Code Repository**  
   - Submit the link to your GitHub repository containing all finalized, documented code  
   - Check with the sponsor if this repo can be public; otherwise it can be kept private to stakeholders
   - For future use, students to ensure that sponsor can run the code
