@@ -19,17 +19,15 @@
 |---|---|
 | **Capstone Event Date**   |  Wednesday, April 30 | 
 | **Location**   |  Rotunda Dome Room, Charlottesville, VA 22903 | 
-| **Parking Details**   |  [TBD] | 
 | **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
-|**Food!** | Coffee, pastries, lunch, and snacks provided |
-| **Zoom**  |  [TBD] |
-| **Dress code**  |  Business casual. No jeans. |
+|**Food** | Lunch provided |
+| **Zoom**  |  https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon#success |
+| **Dress code**  |  Business casual |
 
 
 ## Preparing for the Event
 
-- Poster: Each group will elect one student to upload their poster powerpoint [here](https://myuva.sharepoint.com/sites/CapstoneDayMay2023/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=YMSE3X&CT=1712317314148&OR=OWA%2DNT%2DMail&CID=0f04a2c5%2D52b0%2Db1bd%2Daa75%2Dddfbcdfe6941&RootFolder=%2Fsites%2FCapstoneDayMay2023%2FShared%20Documents%2FGeneral%2F2024%2FCapstone%20Posters%202024&FolderCTID=0x01200053A5E6894AE78F4A99163ED7E89CD469) by **Wed, April 17.**
-- Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2024/Capstone%20Presentation%20Day%20Slides%202024?csf=1&web=1&e=P0ZjHZ) by **Sunday, April 28 at 11:59pm ET.**
+- Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK) by **Friday, April 25 at noon ET.**
 
 
   Filenames: Save all files with time AND first few words of the title.  
@@ -75,33 +73,31 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 - Each team will have **10** mins for presentation and **3** mins for Q&A
 - During Q&A, the next team will transition *on deck*
 
-- Class photo :camera:. Meet 9am at the Rotunda. Details to follow.
+- Class photo :camera:. Meet 9am at the lawn side of the Rotunda.
 
 | Start Time | Title |
 |:---|:---|
-| 9:30am | Open for Seating and Coffee / Pastries |
-| 10:00am | Opening Remarks |
-| 10:10am | Plan-EO: Mapping the bugs that make kids sick in tropical regions of the globe |
-| 10:23am | Imputation of Missing Continuous Glucose Monitoring Sensor Data: Best Methods and Identification of Limits |
-| 10:36am | Deep Learning-based EEG Analysis for Sleep Apnea Detection |
-| 10:49am | Develop an Enterprise Architecture Assistant to Improve the Business Decision-making Process |
+| 9:30am | Open for Seating |
+| 9:45am | Opening Remarks |
+| 9:50am | Group 1: [TBD] |
+| 10:23am |  |
+| 10:36am |  |
+| 10:49am | |
 | 11:02am | BREAK |
-| 11:10am | An ML approach to optimizing project planning for the ALMA Observatory |
-| 11:23am | Prediction on Federal Purchasing Behaviors on Small Business |
-| 11:36am | Metadata-to-Concept: Semi-automatic extraction of entities from image metadata on Wikimedia Commons |
-| 11:49am | ML Audio Classification of Parent-Infant Interactions |
+| 11:10am |  |
+| 11:23am | |
+| 11:36am |  |
+| 11:49am |  |
 | 12:02pm | LUNCH :sandwich: | 
-| 1:00pm | Leveraging Natural Language Processing for Focused Ultrasound Research Taxonomy Development | 
-| 1:13pm | Identifying Illegal AIS Tagged Fishing Nets | 
-| 1:26pm | Exploring Predictability of Winter California Hydroclimate with Deep Learning | 
-| 1:39pm | Predicting Virginia County Suitability for Carbon Dioxide Removal Techniques | 
-| 1:52pm | Recognition of Human Trafficking with Data Science | 
-| 2:05pm | ForHumanity Auditing AI System | 
-| 2:18pm | Generative AI to Facilitate Legislative Knowledge Management | 
+| 1:00pm | | 
+| 1:13pm |  | 
+| 1:26pm | | 
+| 1:39pm | | 
+| 1:52pm |  | 
+| 2:05pm | | 
+| 2:18pm || 
 | 2:31pm | Break and submit awards :trophy: nominations by 2:45pm | 
 | 2:50pm | Awards and Closing | 
-
-- Reception to follow closing. Location: adjacent room at The Graduate.
 
 
 
