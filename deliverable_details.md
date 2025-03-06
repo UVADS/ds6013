@@ -102,7 +102,7 @@ NOTE:
 **5. Slide deck for presentation**
    - Presented by all students at the Capstone Presentation event
    - Please use the SDS-branded .ppt [template](https://github.com/UVADS/ds6013/blob/main/capstone_final_presentation_template.pptx)
-   - Submit the file on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2024/Capstone%20Presentation%20Day%20Slides%202024?csf=1&web=1&e=P0ZjHZ). You will be granted access upon request.
+   - Submit the file on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK). You will be granted access upon request.
    - This information should be included at a **minimum:**
      - Stakeholders
      - Table of Contents
