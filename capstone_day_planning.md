@@ -96,8 +96,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 | 1:52pm |  | 
 | 2:05pm | | 
 | 2:18pm || 
-| 2:31pm | Break and submit awards :trophy: nominations by 2:45pm | 
-| 2:50pm | Awards and Closing | 
+| 3:45pm | Awards and Closing | 
 
 
 
