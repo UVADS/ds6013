@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: March 5, 2025
+#### Last updated: March 22, 2025
 
 [NOTE: THIS SITE IS BEING UPDATED WITH INFORMATION FOR THE 2025 EVENT]
 
@@ -71,31 +71,39 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 ## Presentation Schedule
 
 - Each team will have **10** mins for presentation and **3** mins for Q&A
+- Time limits will be strict to accommodate all teams
 - During Q&A, the next team will transition *on deck*
 
-- Class photo :camera:. Meet 9am at the lawn side of the Rotunda.
+- Class photo :camera:. Meet 9:15am at the lawn side of the Rotunda.
 
 | Start Time | Title |
 |:---|:---|
 | 9:30am | Open for Seating |
 | 9:45am | Opening Remarks |
-| 9:50am | Group 1: [TBD] |
-| 10:23am |  |
-| 10:36am |  |
-| 10:49am | |
-| 11:02am | BREAK |
-| 11:10am |  |
-| 11:23am | |
-| 11:36am |  |
-| 11:49am |  |
-| 12:02pm | LUNCH :sandwich: | 
-| 1:00pm | | 
-| 1:13pm |  | 
-| 1:26pm | | 
-| 1:39pm | | 
-| 1:52pm |  | 
-| 2:05pm | | 
-| 2:18pm || 
+| 9:50am | An ML Approach to Multi-Parameter Project Optimization at the ALMA Observatory |
+| 10:03am | Deloitte Anthropic LLM as a Judge 2025: Team 1  |
+| 10:16am | Deloitte Anthropic LLM as a Judge 2025: Team 2 |
+| 10:29am | Temporal Anomaly Detection in Multi-Spectral Satellite Imagery |
+| 10:42am | Leveraging Connected Vehicle Trajectory Data for Machine Learning-Based Anomaly Detection on Roadway Networks |
+| 10:55am | Dynamic Traffic Flow Optimization and Incident Prediction |
+| 11:08am | BREAK |
+| 11:18am | Using Educational Data to Explore Multimodal (Audio, Video, & Text) LLM Retrieval Techniques |
+| 11:31am | Workforce Data Analysis Project to Assess Internship and First Destination Outcomes Data of UVA Students |
+| 11:44am | Generation and Automation of Live, Broadcast-Quality Sports Content  |
+| 11:57am | Probabilistic Prediction of Location of Body from Abductions |
+| 12:10pm | Automate the Identification of Tattoos often used by Human Traffickers to Brand their Victims | 
+| 12:23pm | LUNCH :sandwich: | 
+| 1:25pm | Optimizing Storytelling, Improving Audience Retention, and Reducing Waste in the Entertainment Industry. | 
+| 1:38pm | Data Science Approaches to Differential Gene Expression in Glaucoma | 
+| 1:51pm | Multifactorial Analysis of Clinical Revenue and Practice Patterns in the UVA SOM to Support the Inaugural Clinical Compensation Plan and Related Funds Flow Needs. | 
+| 2:04pm | The Planetary Child Health & Enterics Observatory: Mapping the bugs that make kids sick in tropical regions of the globe. | 
+| 2:17pm | Understanding Health Event Distributions and Trends in Health Services Utilization in Students using Counseling & Psychological Services (CAPS) at UVA | 
+| 2:30pm | BREAK | 
+| 2:40pm | Automated Glaucoma Screening Using AI-Enhanced Ophthalmoscopy | 
+| 2:53pm | Global Data Science Fellowship: At the Intersection of Malnutrition and Tuberculosis in Tanzania | 
+| 3:06pm | Optimal Radiosurgical Dose Planning for Tumor Control | 
+| 3:19pm | Creating Computer Vision Software for Digitizing Surgical Flowsheets | 
+| 3:32pm | Break and submit awards nominations by 3:45pm | 
 | 3:45pm | Awards and Closing | 
 
 
