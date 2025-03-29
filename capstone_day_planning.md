@@ -1,9 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: March 22, 2025
-
-[NOTE: THIS SITE IS BEING UPDATED WITH INFORMATION FOR THE 2025 EVENT]
+#### Last updated: March 29, 2025
 
 ---
 
