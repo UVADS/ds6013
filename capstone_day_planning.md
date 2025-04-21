@@ -87,7 +87,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 | 11:08am | BREAK |
 | 11:18am | Using Educational Data to Explore Multimodal (Audio, Video, & Text) LLM Retrieval Techniques |
 | 11:31am | Workforce Data Analysis Project to Assess Internship and First Destination Outcomes Data of UVA Students |
-| 11:44am | Generation and Automation of Live, Broadcast-Quality Sports Content  |
+| 11:44am | Detection and Generation of Broadcast-Quality Sports Content |
 | 11:57am | Probabilistic Prediction of Location of Body from Abductions |
 | 12:10pm | Automate the Identification of Tattoos often used by Human Traffickers to Brand their Victims | 
 | 12:23pm | LUNCH :sandwich: | 
